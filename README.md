@@ -9,7 +9,7 @@ When you open the htm file in your browser, you will see that to the right of th
 
 There are five categories and each one is displayed using a different colour.
 
-To see an annotation, you can click on box or on the list. To zoom in on an annotated area of the image, double click on the box. Click again to zoom out.
+To see an annotation, you can click on the box or on the list. To zoom in on an annotated area of the image, double click on the annotation box. Click again to zoom out.
 
 Information was compiled from the Avatar Wiki (https://james-camerons-avatar.fandom.com/wiki/Avatar_Wiki), Pandorapedia (https://www.pandorapedia.com/pandora_url/dictionary.html), Mark Miller’s dictionary (https://files.learnnavi.org/dicts/NaviDictionary.pdf), and dict-navi.com (https://dict-navi.com/en/).
 
